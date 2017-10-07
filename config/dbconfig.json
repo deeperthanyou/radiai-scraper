@@ -1,0 +1,9 @@
+{
+  "development": {
+    "username": "root",
+    "password": "ElkLife6541",
+    "database": "RadiAI_leads",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}

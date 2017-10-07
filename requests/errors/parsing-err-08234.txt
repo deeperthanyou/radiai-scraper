@@ -1,0 +1,1 @@
+Cannot read property 'metaProperties' of undefined
